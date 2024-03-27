@@ -21,3 +21,8 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api/top-langs?username=reneespinosa&show_icons=true&locale=en&layout=compact" alt="reneespinosa" /></p>
 <p><img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api?username=reneespinosa&show_icons=true&locale=en" alt="reneespinosa" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reneespinosa&" alt="reneespinosa" /></p>
+
+![](https://raw.githubusercontent.com/reneespinosa/cf-stats/main/output/light_card.svg)
+
+![](https://raw.githubusercontent.com/reneespinosa/cf-stats/main/output/rating.svg)
+![](https://raw.githubusercontent.com/reneespinosa/cf-stats/main/output/max_rating.svg)
