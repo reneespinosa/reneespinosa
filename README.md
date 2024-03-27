@@ -16,7 +16,8 @@ reneespinosa/reneespinosa is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<!---
-reneespinosa/reneespinosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### **Personal Statistics**
+
+<p><img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api/top-langs?username=reneespinosa&show_icons=true&locale=en&layout=compact" alt="reneespinosa" /></p>
+<p><img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api?username=reneespinosa&show_icons=true&locale=en" alt="reneespinosa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reneespinosa&" alt="reneespinosa" /></p>
