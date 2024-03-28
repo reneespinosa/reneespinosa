@@ -16,13 +16,31 @@ reneespinosa/reneespinosa is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-### **Personal Statistics**
+---
 
-<p><img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api/top-langs?username=reneespinosa&show_icons=true&locale=en&layout=compact" alt="reneespinosa" /></p>
-<p><img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api?username=reneespinosa&&show_icons=true&locale=en" alt="reneespinosa" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reneespinosa&" alt="reneespinosa" /></p>
+
+### :fire: **Personal Statistics**:
+
+<p><img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api/top-langs?username=reneespinosa&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="reneespinosa" /></p>
+<p><img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api?username=reneespinosa&&show_icons=true&locale=en&theme=dark&hide_border=true" alt="reneespinosa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reneespinosa&theme=dark&hide_border=true" alt="reneespinosa" /></p>
 
 <!---![](https://raw.githubusercontent.com/reneespinosa/cf-stats/main/output/light_card.svg)--->
+
+---
+
+### :man_technologist: Technical Expertise:
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-F5792A?style=for-the-badge&logo=BuyMeACoffee&logoColor=white&labelColor=101010)]()
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)](https://www.cplusplus.com/)
+
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
+
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)]()
 
 ![](https://raw.githubusercontent.com/reneespinosa/cf-stats/main/output/rating.svg)
 ![](https://raw.githubusercontent.com/reneespinosa/cf-stats/main/output/max_rating.svg)
