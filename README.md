@@ -10,7 +10,7 @@ and data structures.
 - ⚙️ Additionally, I'm venturing into the fascinating field of Machine Learning, where I'm exploring basic concepts and applications. I'm excited to
   discover the endless possibilities this discipline offers and eager to apply my knowledge to future projects.
 - 📚 I'm always open to collaborations and opportunities to expand my knowledge and experience in the software development world. Feel free to contact me at
-  reneespinosa0310@gmail.com to discuss interesting projects or simply connect!
+  reneespinosa.dev@gmail.com to discuss interesting projects or simply connect!
 <!---
 reneespinosa/reneespinosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
