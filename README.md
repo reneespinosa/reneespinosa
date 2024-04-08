@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @reneespinosa
+## 👋 Hi, I’m @reneespinosa
 - 👨‍💻 Second-year Computer Science student passionate about problem-solving and software development.
 With experience in competitive programming, I constantly seek challenges to enhance my skills in algorithms 
 and data structures.
@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# :fire: **Personal Statistics**:
+## :fire: **Personal Statistics**:
 
  <p><img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api/top-langs?username=reneespinosa&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="reneespinosa" /></p>
  <p><img align="center" src="https://github-readme-stats-six-orpin-55.vercel.app/api?username=reneespinosa&&show_icons=true&locale=en&theme=dark&hide_border=true" alt="reneespinosa" /></p>
@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# :man_technologist: Technical Expertise:
+## :man_technologist: Technical Expertise:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-F5792A?style=for-the-badge&logo=BuyMeACoffee&logoColor=white&labelColor=101010)]()
