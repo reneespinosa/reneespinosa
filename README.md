@@ -29,8 +29,13 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://raw.githubusercontent.com/reneespinosa/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 <br>
-![](https://raw.githubusercontent.com/reneespinosa/cf-stats/main/output/rating.svg)
-![](https://raw.githubusercontent.com/reneespinosa/cf-stats/main/output/max_rating.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reneespinosa/cf-stats/main/output/rating.svg">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reneespinosa/cf-stats/main/output/max_rating.svg">
+</p>
 
 ## :man_technologist: Technical Expertise:
 
