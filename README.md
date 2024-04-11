@@ -25,7 +25,12 @@ You can click the Preview link to take a look at your changes.
 
 <!---![](https://raw.githubusercontent.com/reneespinosa/cf-stats/main/output/light_card.svg)--->
 
+---
 
+![](https://raw.githubusercontent.com/reneespinosa/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+<br>
+![](https://raw.githubusercontent.com/reneespinosa/cf-stats/main/output/rating.svg)
+![](https://raw.githubusercontent.com/reneespinosa/cf-stats/main/output/max_rating.svg)
 
 ## :man_technologist: Technical Expertise:
 
@@ -40,9 +45,3 @@ You can click the Preview link to take a look at your changes.
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)]()
-
-
-
-
- ![](https://raw.githubusercontent.com/reneespinosa/cf-stats/main/output/rating.svg)
- ![](https://raw.githubusercontent.com/reneespinosa/cf-stats/main/output/max_rating.svg)
