@@ -9,6 +9,8 @@ and data structures.
   discover the endless possibilities this discipline offers and eager to apply my knowledge to future projects.
 - 📚 I'm always open to collaborations and opportunities to expand my knowledge and experience in the software development world. Feel free to contact me at
   reneespinosa.dev@gmail.com to discuss interesting projects or simply connect!
+- **Check out my certifications and diplomas [here](https://github.com/reneespinosa/Certifications-and-Archivements)!**
+
 <!---
 reneespinosa/reneespinosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
