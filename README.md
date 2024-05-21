@@ -3,9 +3,7 @@
 With experience in competitive programming, I constantly seek challenges to enhance my skills in algorithms 
 and data structures.
 - 🏆 Recognized participant in the Ibero-American Informatics Competition 2021, where I received an honorable mention, and proud 4th place finisher in the Caribbean Finals of the ICPC 2022 among 41 teams. These achievements have reinforced my commitment to excellence and motivated me to explore new frontiers in computer science and programming.
-- 🌟 Currently, I'm immersed in the exciting world of Front-End development, exploring the fundamentals of web design and creating attractive,
-  functional interfaces. I'm dedicated to learning and mastering key technologies like HTML, CSS, and JavaScript to build dynamic web experiences.
-- ⚙️ Additionally, I'm venturing into the fascinating field of Machine Learning, where I'm exploring basic concepts and applications. I'm excited to
+- ⚙️ I'm venturing into the fascinating field of Artificial Intelligence (AI) , where I'm exploring basic concepts and applications. I'm excited to
   discover the endless possibilities this discipline offers and eager to apply my knowledge to future projects.
 - 📚 I'm always open to collaborations and opportunities to expand my knowledge and experience in the software development world. Feel free to contact me at
   reneespinosa.dev@gmail.com to discuss interesting projects or simply connect!
